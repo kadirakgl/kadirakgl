@@ -58,7 +58,7 @@
 
 - [GitHub](https://github.com/kadirakgl)
 - [LinkedIn](https://www.linkedin.com/in/kadirakgl/) <!-- LinkedIn adresini ekleyebilirsin -->
-- [E-mail](mailto:seninmailin@gmail.com) <!-- E-posta adresini ekleyebilirsin -->
+- [E-mail](kadirak.2001@hotmail.com) <!-- E-posta adresini ekleyebilirsin -->
 
 ---
 
