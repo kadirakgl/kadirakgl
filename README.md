@@ -1,7 +1,7 @@
 <!-- Profilinize özel bir banner eklemek isterseniz buraya ekleyebilirsiniz -->
 <!-- ![Banner](https://link-to-your-banner-image.com/banner.png) -->
 
-<h1 align="center">Hi 👋, I'm Kadir Akagil</h1>
+<h1 align="center">Hi 👋, I'm Kadir Akgül</h1>
 <h3 align="center">A passionate Software Developer from Turkey</h3>
 
 <p align="center">
