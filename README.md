@@ -45,6 +45,7 @@
 
 ### 📂 Featured Projects
 
+- [finalproject](https://github.com/kadirakgl/finalproject) - Kapsamlı final proje
 - [dapper-proje](https://github.com/kadirakgl/dapper-proje) - Dapper ile örnek proje
 - [codefirst-ajax-proje](https://github.com/kadirakgl/codefirst-ajax-proje) - Code First ve Ajax ile geliştirilmiş proje
 - [ado.net-proje](https://github.com/kadirakgl/ado.net-proje) - ADO.NET ile örnek proje
